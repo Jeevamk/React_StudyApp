@@ -1,9 +1,10 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 
-export default function Contact() {
+export const About = () => {
   return (
-    <div>Contact</div>
+    <div>
+      <h1>About Page</h1>
+    </div>
   )
 }
-

@@ -1,8 +1,11 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 
-export default function About() {
+export const Home = () => {
   return (
-    <div>About</div>
+    <div>
+      
+      <h1>Home</h1>
+    </div>
   )
 }
