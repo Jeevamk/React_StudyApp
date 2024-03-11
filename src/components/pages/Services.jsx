@@ -5,7 +5,7 @@ export const Services = () => {
   return (
     <div>
       <div>
-        <h1>Services</h1>
+        <h1 className="text-center text-5xl">Services</h1>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur
         dicta voluptatum earum. Quaerat ipsam voluptatum in quidem alias. Dicta
         quia corporis sit aut assumenda dolorem ex, expedita, sint qui vitae
